@@ -1,1 +1,1 @@
-# QuantumComputing
+# Variational Quantum Eigensolver Final Project
